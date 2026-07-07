@@ -1,0 +1,48 @@
+body {
+    background-color: aliceblue;
+    font-family: "Arial", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: violet;
+    font-family: "Georgia", serif;
+}
+
+.recipe-link {
+    text-align: center;
+}
+
+p a {
+    text-align: center;
+    display: inline-block;
+    background-color: pink;
+    color: purple;
+    padding: 20px;
+    border: 3px solid blueviolet;
+    margin: 10px;
+}
+
+#external-link {
+    all: revert;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+}
+
+.temp {
+    color: red;
+    font-weight: 600;
+}
+
+#bagel-home {
+    font-size: 3rem;
+    color: plum;
+}
+
+.home {
+    font-size: 2rem;
+    color: rebeccapurple;
+}
