@@ -1,5 +1,5 @@
 # odin-recipes
-The Odin Project - Recipes
+The Odin Project - Foundations - Recipes
 
 Project description: Create a basic recipe website containing a homepage with links to a few recipes.
 Part 1: Design basic layout with HTML
